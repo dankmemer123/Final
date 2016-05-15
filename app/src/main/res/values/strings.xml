@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">FTutoria</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_loggin">Loggin</string>
+    <string name="Username">username</string>
+    <string name="UsernameF">Username</string>
+    <string name="Password">Password</string>
+    <string name="SignIn">Sign In</string>
+    <string name="title_activity_messaging">Messaging</string>
+    <string name="empty" />
+    <string name="Send">Send</string>
+
+    <string name="title_activity_signing_up">Sign Up</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="local_service_stopped">Local service stopped</string>
+    <string name="not_connected_to_service">not connected to service</string>
+    <string name="not_connected_to_network">not connected to network</string>
+    <string name="make_sure_username_and_password_correct">make sure username and password are correct</string>
+    <string name="fill_both_username_and_password">fill both username and password</string>
+    <string name="OK">every thing is okay</string>
+    <string name="title_activity_tutor_finder_adder">Find a Tutor</string>
+    <string name="tutorUsername">Tutor Username</string>
+    <string name="Add">Add</string>
+    <string name="request_sent">request sent</string>
+    <string name="exit_application">exit application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="signup_successfull">SignUp Successful </string>
+    <string name="signup_username_crashed">SignUp Crashed </string>
+    <string name="signup_failed">SignUp Failed </string>
+
+    <string name="username_and_password_length_short">Username or Password Length is short </string>
+
+    <string name="signup_type_same_password_in_password_fields">Password does not match </string>
+
+    <string name="signup_fill_all_fields">please fill all fields </string>
+    <string name="new_friend_request_exist">New Friend Request </string>
+
+    <string name="approve_selected_friends">Approved selected friend</string>
+    <string name="title_activity_listtutorscreen">List of Tutors</string>
+    <string name="online">Online</string>
+    <string name="title_activity_listoftutors">List of Tutors</string>
+    <string name="message_cannot_be_sent">message cannot be send</string>
+    <string name="add_new_friend">Add Friend</string>
+    <string name="type_friend_username">Add Friend</string>
+
+</resources>
