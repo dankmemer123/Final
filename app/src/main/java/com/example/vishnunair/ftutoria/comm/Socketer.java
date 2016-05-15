@@ -22,7 +22,7 @@ import com.example.vishnunair.ftutoria.interfacer.Manager;
 
 public class Socketer implements SocketerInterface
 {
-    private static final String AUTHENTICATION_SERVER_ADDRESS = "http://192.168.1.155/ftutoria/"; // change to your WebAPI Address
+    private static final String AUTHENTICATION_SERVER_ADDRESS = "http://fakeIP/ftutoria/"; // change to your WebAPI Address
 
     private int listeningPort = 0;
 
